@@ -1,7 +1,13 @@
 # CRUD
 
-<b>This is golang API implementation for CRUD operations</b>
-Stable Version v1.0.1
+<b>This is golang module API implementation for CRUD operations</b>
+<p>Stable Version v1.0.1</p>
+
+<b>How to use this module?</b>
+- go get -u github.com/amitkumardube/CRUD
+OR
+- Add it's packages as dependency in your program using import github.com/amitkumardube/CRUD/update_resource
+- then trigger go run and go will download all the dependency and update go.mod file
 
 The module supports below operations
 - update_resource (this support string update operation)
