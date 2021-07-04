@@ -1,0 +1,7 @@
+mode: set
+github.com/amitkumardube/CRUD/Avg/avg.go:5.26,7.26 2 1
+github.com/amitkumardube/CRUD/Avg/avg.go:10.2,10.14 1 1
+github.com/amitkumardube/CRUD/Avg/avg.go:13.2,13.23 1 1
+github.com/amitkumardube/CRUD/Avg/avg.go:7.26,9.3 1 1
+github.com/amitkumardube/CRUD/Avg/avg.go:10.14,12.3 1 1
+github.com/amitkumardube/CRUD/Avg/avg.go:16.14,20.2 0 0
